@@ -1,4 +1,13 @@
-# jenny-jenny-HP-Z600
-An example project for an Egghead.io lesson
+A collection of utility functions
 
+#Examples
 
+'''
+getRandomElement([1, 2, 3]);
+//=> 2
+'''
+
+'''
+getRandomNumber(1, 10);
+//=> 4
+'''
